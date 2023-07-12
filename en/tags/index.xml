@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NotTurtle Blog</title>
-    <link>http://notturtle/en/tags/</link>
+    <link>https://notturtle01.github.io/en/tags/</link>
     <description>Recent content in Tags on NotTurtle Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jul 2023 19:02:52 +0200</lastBuildDate><atom:link href="http://notturtle/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 19:02:52 +0200</lastBuildDate><atom:link href="https://notturtle01.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finally</title>
-      <link>http://notturtle/en/tags/Finally/</link>
+      <link>https://notturtle01.github.io/en/tags/Finally/</link>
       <pubDate>Thu, 06 Jul 2023 19:02:52 +0200</pubDate>
       
-      <guid>http://notturtle/en/tags/Finally/</guid>
+      <guid>https://notturtle01.github.io/en/tags/Finally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tired</title>
-      <link>http://notturtle/en/tags/Tired/</link>
+      <link>https://notturtle01.github.io/en/tags/Tired/</link>
       <pubDate>Thu, 06 Jul 2023 19:02:52 +0200</pubDate>
       
-      <guid>http://notturtle/en/tags/Tired/</guid>
+      <guid>https://notturtle01.github.io/en/tags/Tired/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://notturtle/en/tags/Introduction/</link>
+      <link>https://notturtle01.github.io/en/tags/Introduction/</link>
       <pubDate>Mon, 26 Jun 2023 19:02:52 +0200</pubDate>
       
-      <guid>http://notturtle/en/tags/Introduction/</guid>
+      <guid>https://notturtle01.github.io/en/tags/Introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joke</title>
-      <link>http://notturtle/en/tags/Joke/</link>
+      <link>https://notturtle01.github.io/en/tags/Joke/</link>
       <pubDate>Sat, 24 Jun 2023 17:37:45 +0200</pubDate>
       
-      <guid>http://notturtle/en/tags/Joke/</guid>
+      <guid>https://notturtle01.github.io/en/tags/Joke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whoami</title>
-      <link>http://notturtle/en/tags/Whoami/</link>
+      <link>https://notturtle01.github.io/en/tags/Whoami/</link>
       <pubDate>Sat, 24 Jun 2023 17:37:45 +0200</pubDate>
       
-      <guid>http://notturtle/en/tags/Whoami/</guid>
+      <guid>https://notturtle01.github.io/en/tags/Whoami/</guid>
       <description></description>
     </item>
     

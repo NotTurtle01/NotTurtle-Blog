@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NotTurtle Blog</title>
-    <link>http://notturtle/en/</link>
+    <link>https://notturtle01.github.io/en/</link>
     <description>Recent content on NotTurtle Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jul 2023 19:02:52 +0200</lastBuildDate><atom:link href="http://notturtle/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 19:02:52 +0200</lastBuildDate><atom:link href="https://notturtle01.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me :)</title>
-      <link>http://notturtle/en/about/</link>
+      <link>https://notturtle01.github.io/en/about/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://notturtle/en/about/</guid>
+      <guid>https://notturtle01.github.io/en/about/</guid>
       <description>Hi there 👋 !
 I&amp;rsquo;m NotTurtle (or NotTurtle01, as u prefer), thrilled to share a bit about myself with you. Let&amp;rsquo;s dive into the traditional whoami and what I&amp;rsquo;m passionate about.
 I am currently studying Artificial Intelligence (AI) 👾 and have just begun my journey in this exciting field. My most frequently-used language would be Python and HTML-CSS to do some basic web-development work.
@@ -21,10 +21,10 @@ In the short term I would like to learn how to handle databases better, reinforc
     
     <item>
       <title>Third Post</title>
-      <link>http://notturtle/en/blog/2023/07/06/third-post/</link>
+      <link>https://notturtle01.github.io/en/blog/2023/07/06/third-post/</link>
       <pubDate>Thu, 06 Jul 2023 19:02:52 +0200</pubDate>
       
-      <guid>http://notturtle/en/blog/2023/07/06/third-post/</guid>
+      <guid>https://notturtle01.github.io/en/blog/2023/07/06/third-post/</guid>
       <description>Things I made it. I need to rest today of Hugo and frameworks. Luck tomorrow.
 The standard Lorem Ipsum passage, used since the 1500s
 &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
@@ -32,10 +32,10 @@ The standard Lorem Ipsum passage, used since the 1500s
     
     <item>
       <title>Second Post</title>
-      <link>http://notturtle/en/blog/2023/06/26/second-post/</link>
+      <link>https://notturtle01.github.io/en/blog/2023/06/26/second-post/</link>
       <pubDate>Mon, 26 Jun 2023 19:02:52 +0200</pubDate>
       
-      <guid>http://notturtle/en/blog/2023/06/26/second-post/</guid>
+      <guid>https://notturtle01.github.io/en/blog/2023/06/26/second-post/</guid>
       <description>Hiii Hmmm this is the second attempt. Of course, forget this post exist as it would be terminated soon!
 I am referencing a footnote1
 I share a beautiful video that may make your day better!
@@ -45,10 +45,10 @@ Have a nice day ;) !
     
     <item>
       <title>My First Post</title>
-      <link>http://notturtle/en/blog/2023/06/24/my-first-post/</link>
+      <link>https://notturtle01.github.io/en/blog/2023/06/24/my-first-post/</link>
       <pubDate>Sat, 24 Jun 2023 17:37:45 +0200</pubDate>
       
-      <guid>http://notturtle/en/blog/2023/06/24/my-first-post/</guid>
+      <guid>https://notturtle01.github.io/en/blog/2023/06/24/my-first-post/</guid>
       <description>Introduction So&amp;hellip; I suppose this is the beginning of something.
 My usual nickname is NotTurtle and I&amp;rsquo;m pleased to welcome you to my Blog. Please, feel comfortable. Let&amp;rsquo;s Start! :)
 LoL Call me a hero.</description>
