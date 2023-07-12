@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finally on NotTurtle Blog</title>
+    <link>http://notturtle/tags/Finally/</link>
+    <description>Recent content in Finally on NotTurtle Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jul 2023 19:02:52 +0200</lastBuildDate><atom:link href="http://notturtle/tags/Finally/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>http://notturtle/blog/2023/07/06/Third-Post/</link>
+      <pubDate>Thu, 06 Jul 2023 19:02:52 +0200</pubDate>
+      
+      <guid>http://notturtle/blog/2023/07/06/Third-Post/</guid>
+      <description>Things I made it. I need to rest today of Hugo and frameworks. Luck tomorrow.
+The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+  </channel>
+</rss>

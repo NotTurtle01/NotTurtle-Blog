@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduccion on NotTurtle Blog</title>
+    <link>http://notturtle/es/tags/Introduccion/</link>
+    <description>Recent content in Introduccion on NotTurtle Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 26 Jun 2023 19:02:52 +0200</lastBuildDate><atom:link href="http://notturtle/es/tags/Introduccion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://notturtle/es/blog/2023/06/26/second-post/</link>
+      <pubDate>Mon, 26 Jun 2023 19:02:52 +0200</pubDate>
+      
+      <guid>http://notturtle/es/blog/2023/06/26/second-post/</guid>
+      <description>Holaaa Hmmm this is the second attempt. Of course, forget this post exist as it would be terminated soon!
+I am referencing a footnote1
+I share a beautiful video that may make your day better!
+Have a nice day ;) !
+&amp;ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</description>
+    </item>
+    
+  </channel>
+</rss>

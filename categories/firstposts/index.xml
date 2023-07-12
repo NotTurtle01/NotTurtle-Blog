@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FirstPosts on NotTurtle Blog</title>
+    <link>http://notturtle/categories/firstposts/</link>
+    <description>Recent content in FirstPosts on NotTurtle Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2023 19:02:52 +0200</lastBuildDate><atom:link href="http://notturtle/categories/firstposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://notturtle/blog/2023/06/26/second-post/</link>
+      <pubDate>Mon, 26 Jun 2023 19:02:52 +0200</pubDate>
+      
+      <guid>http://notturtle/blog/2023/06/26/second-post/</guid>
+      <description>I have a second chance, Lo</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://notturtle/blog/2023/06/24/my-first-post/</link>
+      <pubDate>Sat, 24 Jun 2023 17:37:45 +0200</pubDate>
+      
+      <guid>http://notturtle/blog/2023/06/24/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;So&amp;hellip; I suppose this is the beginning of something.&lt;/p&gt;
+&lt;p&gt;My usual nickname is &lt;strong&gt;NotTurtle&lt;/strong&gt; and I&amp;rsquo;m pleased to welcome you to my Blog. Please, feel comfortable. &lt;em&gt;Let&amp;rsquo;s Start!&lt;/em&gt; :)&lt;/p&gt;
+&lt;p&gt;LoL Call me a hero.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on NotTurtle Blog</title>
+    <link>http://notturtle/about/</link>
+    <description>Recent content in Abouts on NotTurtle Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://notturtle/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me :)</title>
+      <link>http://notturtle/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://notturtle/about/about/</guid>
+      <description>Hi there 👋 !
+I&amp;rsquo;m NotTurtle (or NotTurtle01, as u prefer), thrilled to share a bit about myself with you. Let&amp;rsquo;s dive into the traditional whoami and what I&amp;rsquo;m passionate about.
+I am currently studying Artificial Intelligence (AI) 👾 and have just begun my journey in this exciting field. My most frequently-used language would be Python and HTML-CSS to do some basic web-development work.
+In the short term I would like to learn how to handle databases better, reinforce my (limited for now) knowledge in networks and learn more about neural networks and machine-learning.</description>
+    </item>
+    
+  </channel>
+</rss>
