@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Broma on NotTurtle Blog</title>
-    <link>https://notturtle01.github.io/es/tags/Broma/</link>
+    <link>https://notturtle01.github.io/en/es/tags/Broma/</link>
     <description>Recent content in Broma on NotTurtle Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Jun 2023 17:37:45 +0200</lastBuildDate><atom:link href="https://notturtle01.github.io/es/tags/Broma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 17:37:45 +0200</lastBuildDate><atom:link href="https://notturtle01.github.io/en/es/tags/Broma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Primer Post</title>
-      <link>https://notturtle01.github.io/es/blog/2023/06/24/my-first-post/</link>
+      <link>https://notturtle01.github.io/en/es/blog/2023/06/24/my-first-post/</link>
       <pubDate>Sat, 24 Jun 2023 17:37:45 +0200</pubDate>
       
-      <guid>https://notturtle01.github.io/es/blog/2023/06/24/my-first-post/</guid>
+      <guid>https://notturtle01.github.io/en/es/blog/2023/06/24/my-first-post/</guid>
       <description>Introducciión Así que&amp;hellip; I suppose this is the beginning of something.
 My usual nickname is NotTurtle and I&amp;rsquo;m pleased to welcome you to my Blog. Please, feel comfortable. Let&amp;rsquo;s Start! :)
 LoL Call me a hero.</description>
